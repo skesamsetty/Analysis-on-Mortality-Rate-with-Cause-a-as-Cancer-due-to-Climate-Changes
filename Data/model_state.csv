@@ -1,4 +1,4 @@
-fips,Fall,Spring,Summer,Winter,max_warming_season,Annual,STUSAB,STATE_NAME,STATENS
+fips,Fall,Spring,Summer,Winter,max_warming_season,Annual,state_code,state_name,gnis_id
 1,-0.19566843,-0.105862434,-0.325008818,0.458525573,Winter,-0.035047619,AL,Alabama,1779775
 4,1.203950617,1.384479718,1.274455026,1.388388007,Winter,1.319880071,AZ,Arizona,1779777
 5,-0.042539683,0.266398589,0.05859612,0.532246914,Winter,0.214074074,AR,Arkansas,68085
